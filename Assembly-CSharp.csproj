@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\EnemyCOntroller.cs" />
+    <Compile Include="Assets\Script\PertorlEnemyController.cs" />
     <Compile Include="Assets\Script\playerController.cs" />
     <Compile Include="Assets\Script\projectile.cs" />
     <Reference Include="Unity.Timeline.Editor">
